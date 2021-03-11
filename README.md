@@ -1,7 +1,3 @@
 # efdcs
 
-include<iostream>
-int main()
-  {
-  std::cout<<helloworld<<std::endl;
-  }
+里面啥都没有
